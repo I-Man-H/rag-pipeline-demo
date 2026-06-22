@@ -312,5 +312,5 @@ pytest tests/ -v
 
 ## Contact
 
-**Iman Hosseini** — PhD Candidate, University of Canberra
+**Iman Hosseini** — Data Scientist | AI Engineer
 [LinkedIn](https://www.linkedin.com/in/i-man-hosseini/) · [Google Scholar](https://scholar.google.com/citations?user=ZBlw7J0AAAAJ) · [GitHub](https://github.com/I-Man-H)
